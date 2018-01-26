@@ -98,6 +98,45 @@ textarea {
    ========================================================================== */
 
 
+/* Header ====================================================================== */
+
+body {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+header {
+    background-color: #293f50;
+    color: #FFF;
+    text-transform: uppercase;
+}
+
+h1 {
+    width: 50%;
+    float: left;
+    font-weight: 100;
+}
+
+header h3 {
+    float: right;
+}
+
+nav {
+    width: 50%;
+    float: right;
+    clear: right;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 1%;
+    float: right;
+}
+
+
+/* Footer ======================================================================== */
+
+
+
 
 
 
